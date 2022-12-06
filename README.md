@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ScottSchumacker
 - 👀 I’m interested in Data Science and Software Engineering
-- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me -> scottschu97@gmail.com
 
 <!---
