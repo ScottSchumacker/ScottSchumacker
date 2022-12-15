@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ScottSchumacker
-- 👀 I’m interested in Data Science and Software Engineering
+- 👀 I’m interested in Data Science, Software Engineering, and Game Development
 - 📫 How to reach me -> scottschu97@gmail.com
 
 <!---
